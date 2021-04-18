@@ -9,7 +9,7 @@ import Input from '../Input/Input';
 import './Chat.css';
 import chatContext from "../../context/chatContext";
 
-const ENDPOINT = 'http://localhost:5000/';
+const ENDPOINT = 'https://chat-react-time.herokuapp.com/';
 
 let socket;
 
